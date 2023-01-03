@@ -3,7 +3,7 @@
   "symbol": "DEGOD",
   "description": "Thanks to the NFT you bought on the MagicEden site, you have earned the right to free Mint.🥳 \n\n DeGods is a digital art collection and global community of creators, developers, entrepreneurs, athletes, artists, experimenters and innovators. \n\n You can have your free Mint right to our limited NFT collection during the day on our site.🔽",
   "seller_fee_basis_points": 100,
-  "external_url": "https://degodsdigitalwt.netlify.app",
+  "external_url": "https://degodsdigital.web.app",
   "edition": "Alpha",
   "background_color": "000000",
   "attributes": [
@@ -20,7 +20,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "address": "DRd2hr7EUh9xtLaM76jk6fmkApH1dUbfVY1dfauisf6o",
         "share": 100
       }
     ],
